@@ -1,7 +1,3 @@
-//
-// Created by Ali A. Kooshesh on 1/30/19.
-//
-
 #ifndef EXPRINTER_TOKEN_HPP
 #define EXPRINTER_TOKEN_HPP
 #include<string>
