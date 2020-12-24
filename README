@@ -1,0 +1,8 @@
+The resulting executable from the makefile is statement.x
+An input file should be a .txt containing python code (I uploaded a sample input file)
+To run the interpreter: ./statement.x an_input_file.txt
+
+Variables for ints, doubles, strings and booleans are supported
+For loops, if/else statements, print statemtents, and arithmetic expressions are supported
+Functions are not supported
+print statements are of the form: print [testlist]
