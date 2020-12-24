@@ -1,7 +1,3 @@
-//
-// Created by Ali A. Kooshesh on 2/5/19.
-//
-
 #include "Statements.hpp"
 #include <string>
 #include <vector>
