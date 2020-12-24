@@ -1,7 +1,3 @@
-//
-// Created by Ali A. Kooshesh on 2/5/19.
-//
-
 #ifndef EXPRINTER_STATEMENTS_HPP
 #define EXPRINTER_STATEMENTS_HPP
 
