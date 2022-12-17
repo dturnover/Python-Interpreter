@@ -1,3 +1,5 @@
+Python interpreter that uses a recursive descent parser to tokenize and process a corpus containing python code.
+
 The resulting executable from the makefile is statement.x
 An input file should be a .txt containing python code (I uploaded a sample input file)
 To run the interpreter: ./statement.x an_input_file.txt
